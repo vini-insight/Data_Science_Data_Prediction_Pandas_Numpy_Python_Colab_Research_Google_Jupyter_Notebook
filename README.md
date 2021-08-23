@@ -38,6 +38,10 @@ Embarked - Porto de Embarque (C = Cherbourg; Q = Queenstown; S = Southampton)
     <img src="imgs/t2.png" alt="tabela de Resultado />    
 </p>
 
+OBS.: a classificação diz que se o resultado da previsão é que a pessoa sobreviveu, recebe 1 (um) na classificação. caso contrário, recebe 0 (zero) na classificação
+
+
 ###### outras fontes:
+
 
 http://rstudio-pubs-static.s3.amazonaws.com/24969_894d890964fd4308ab537bfde1f784d2.html
