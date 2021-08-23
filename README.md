@@ -8,8 +8,8 @@ Apenas 31% dos que estavam a bordo sobreviveram a este desastre. O objetivo dest
 ### Dados
 Dois arquivos cvs baixados de Kaggle http://www.kaggle.com/c/titanic-gettingStarted/data:
 
-train.csv (dados para um subconjunto de passageiros, incluindo resultados (sobreviveram ou morreram))
-test.csv (dados para um subconjunto de passageiros sem resultados)
+    train.csv (dados para um subconjunto de passageiros, incluindo resultados (sobreviveram ou morreram))
+    test.csv (dados para um subconjunto de passageiros sem resultados)
 
 ### Descrição de dados:
 <p><pre>
