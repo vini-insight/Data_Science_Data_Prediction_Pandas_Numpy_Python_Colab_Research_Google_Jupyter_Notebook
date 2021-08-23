@@ -42,9 +42,10 @@ Embarked - Porto de Embarque (C = Cherbourg; Q = Queenstown; S = Southampton)
 </p>
 
 
-
+<p align="left" >
 ###### outras fontes:
+</p>
 
-
-
+<p align="left" >
 http://rstudio-pubs-static.s3.amazonaws.com/24969_894d890964fd4308ab537bfde1f784d2.html
+</p>
