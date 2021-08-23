@@ -12,7 +12,7 @@ train.csv (dados para um subconjunto de passageiros, incluindo resultados (sobre
 test.csv (dados para um subconjunto de passageiros sem resultados)
 
 ### Descrição de dados:
-
+<p><pre>
 Survival - Sobrevivência (0 = Não; 1 = Sim). Não incluído no arquivo test.csv.
 Pclass - Classe de passageiros (1 = 1ª; 2 = 2ª; 3 = 3ª)
 Name - Nome
@@ -24,7 +24,7 @@ Ticket - Número do ingresso / Passagem
 Fare - tarifa do passageiro
 Cabin - Cabine
 Embarked - Porto de Embarque (C = Cherbourg; Q = Queenstown; S = Southampton)
-
+</pre></p>
 ###### outras fontes:
 
 http://rstudio-pubs-static.s3.amazonaws.com/24969_894d890964fd4308ab537bfde1f784d2.html
