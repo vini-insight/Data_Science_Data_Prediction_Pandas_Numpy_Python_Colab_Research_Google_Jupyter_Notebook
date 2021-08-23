@@ -3,7 +3,7 @@
 
 ### Previsão de Sobrevivência do [RMS Titanic](https://www.google.com/search?q=titatic&sxsrf=ALeKk026tV9vwLgAUCWwycf3E3jUXH3dAg%3A1629747024297&source=hp&ei=UPcjYcv5D8bN5OUP_6aUyA0&iflsig=AINFCbYAAAAAYSQFYKljzFvmUYY6s9y5kmd6uppcw7ay&oq=titatic&gs_lcp=Cgdnd3Mtd2l6EAMyCggAELEDEIMBEAoyCgguELEDEIMBEAoyCgguELEDEIMBEAoyCggAELEDEIMBEAoyCggAELEDEIMBEAoyCggAELEDEIMBEAoyCggAELEDEIMBEAoyCggAELEDEIMBEAoyBwgAELEDEAoyBAgAEAo6BAgjECc6BAgAEEM6CggAELEDEIMBEEM6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToICAAQgAQQsQM6DgguEIAEELEDEMcBEKMCOggIABCxAxCDAToFCC4QgAQ6BQgAEIAEOgsIABCABBCxAxDJAzoFCAAQkgM6CAguEIAEELEDOgsILhCABBCxAxCDAToHCAAQgAQQCjoHCC4QgAQQClCEB1jADWDoE2gAcAB4AIABgQKIAd4IkgEFMC42LjGYAQCgAQE&sclient=gws-wiz&ved=0ahUKEwjL4dHj8MfyAhXGJrkGHX8TBdkQ4dUDCAc&uact=5)
 
-Apenas 31% dos passageiros sobreviveram a este desastre. O objetivo deste projeto é com base na tabela de Tripulantes e Passageiros, criar um modelo que faz a previsão de sobrevivência com base nas informações disponíveis na tabela.
+Apenas 31% dos que estavam a bordo sobreviveram a este desastre. O objetivo deste projeto é, criar um modelo que faz a previsão de sobrevivência com base numa tabela com dados de Tripulantes e Passageiros do RMS Titanic
 
 ### Dados
 Dois arquivos cvs baixados de Kaggle http://www.kaggle.com/c/titanic-gettingStarted/data:
@@ -25,6 +25,7 @@ Fare - tarifa do passageiro
 Cabin - Cabine
 Embarked - Porto de Embarque (C = Cherbourg; Q = Queenstown; S = Southampton)
 </pre></p>
+
 ###### outras fontes:
 
 http://rstudio-pubs-static.s3.amazonaws.com/24969_894d890964fd4308ab537bfde1f784d2.html
